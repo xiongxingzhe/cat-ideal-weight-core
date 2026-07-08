@@ -1,2 +1,9 @@
-# cat-ideal-weight-core
-Core ideal-weight range helpers for cats by breed and sex. Built by pawsandpounds.com.
+# Cat Ideal Weight Core
+
+Helpers to compare a cat's current weight against a male/female ideal range.
+
+Built by [pawsandpounds.com](https://pawsandpounds.com).
+
+## License
+
+MIT
