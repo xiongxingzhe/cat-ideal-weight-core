@@ -1,5 +1,7 @@
 # Cat Ideal Weight Core
 
+[![CI](https://github.com/xiongxingzhe/cat-ideal-weight-core/actions/workflows/ci.yml/badge.svg)](https://github.com/xiongxingzhe/cat-ideal-weight-core/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Utilities for comparing current cat weight against a target range in kilograms.
 
 Built by [pawsandpounds.com](https://pawsandpounds.com).
